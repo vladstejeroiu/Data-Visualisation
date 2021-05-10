@@ -1,6 +1,6 @@
 # Data-Visualisation
 
-## CSC337 A1: Information Visualization
+## CSC337 A1: Information Visualisation
 Data Visualisations using Altair and Python.
 
 Directory         | Contents
@@ -11,10 +11,10 @@ Directory         | Contents
 [`/src`](./src)   | Source Jupyter notebook files used to generate the visualisations.
 
 Visualisation tools 
-	- Jupyter Notebook 
+* Jupyter Notebook 
 Programming language 
-	- Python 
+* Python 
 Declarative statistical visualisation library 
-	- Altair
+* Altair
 
-Details and explanations about the visualisations in the files in the form of comments.
+Details and explanations about the visualisations are in the files, in the form of comments.
