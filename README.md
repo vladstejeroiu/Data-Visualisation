@@ -10,7 +10,7 @@ Directory         | Contents
 [`/img`](./img)   | Images of the visualisations generated and used in the submission.
 [`/src`](./src)   | Source Jupyter notebook files used to generate the visualisations.
 
-Visualisation tools 
+### Visualisation tools: 
 * Jupyter Notebook 
 * Programming language: Python 
 * Declarative statistical visualisation library: Altair
