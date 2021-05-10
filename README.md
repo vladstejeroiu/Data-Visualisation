@@ -12,9 +12,7 @@ Directory         | Contents
 
 Visualisation tools 
 * Jupyter Notebook 
-Programming language 
-* Python 
-Declarative statistical visualisation library 
-* Altair
+* Programming language: Python 
+* Declarative statistical visualisation library: Altair
 
 Details and explanations about the visualisations are in the files, in the form of comments.
